@@ -1,0 +1,17 @@
+#titulo{
+  color: red;
+  background: black;
+}
+.parrafo{
+  color: aqua;
+  background: slateblue;
+}
+
+
+#content{
+  border: solid 5px red;
+}
+#content > div{
+  background: violet;
+  border: solid 1px blue;
+}
