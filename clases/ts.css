@@ -1,0 +1,9 @@
+.divOver{
+  background: blue;
+  color: white;
+  height: 50px;
+}
+
+.shadow{
+  box-shadow: 10px 15px 10px gray;
+}
